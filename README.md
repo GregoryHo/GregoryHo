@@ -1,23 +1,30 @@
-### Hi there, I'm Gregory
-> A passionate self-taught Android/Backend developer from Taiwan.
+# Gregory Ho
 
-**Languages and Tools:**  
+Engineer Manager, focused on team growth, delivery quality, and predictable execution.
+Hands-on fullstack: Android, Web, Backend.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
+Leads engineers through planning, architecture, and release decisions while staying close to production code.
+Works across product and engineering to turn scoped goals into shipped outcomes with clear ownership.
+Prioritizes pragmatic decisions, measurable quality signals, and maintainable systems that keep teams moving fast.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GregoryHo&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Anurag's github stats" />
-</a>
+## Focus in 2026
 
-<br/>
-<br/>
+- Keep hands-on ownership in Android/Web/Backend architecture and delivery.
+- Invest in AI-assisted engineering workflows and developer productivity.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryHo&layout=compact&theme=gruvbox" />
-</a>
+## Tech Stack
+
+<p>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=kotlin,java,ts,js,nodejs,react,rust,mongodb,git,linux,vim&perline=11"
+      alt="Kotlin, Java, TypeScript, JavaScript, Node.js, React, Rust, MongoDB, Git, Linux, and Vim"
+    />
+  </a>
+</p>
+
+## Contact
+
+- GitHub: [@GregoryHo](https://github.com/GregoryHo)
+- Email: [greghojob@gmail.com](mailto:greghojob@gmail.com)
+- Collaboration: Open an issue/discussion in any repo
