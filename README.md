@@ -1,16 +1,38 @@
 # Gregory Ho
 
-Engineer Manager, focused on team growth, delivery quality, and predictable execution.
-Hands-on fullstack: Android, Web, Backend.
+Engineering Manager. Hands-on fullstack. Ships through people and code.
 
-Leads engineers through planning, architecture, and release decisions while staying close to production code.
-Works across product and engineering to turn scoped goals into shipped outcomes with clear ownership.
-Prioritizes pragmatic decisions, measurable quality signals, and maintainable systems that keep teams moving fast.
+**[gregoryho.link →](https://gregoryho.link)**
 
-## Focus in 2026
+---
 
-- Keep hands-on ownership in Android/Web/Backend architecture and delivery.
-- Invest in AI-assisted engineering workflows and developer productivity.
+## Now
+
+Building AI-assisted developer tooling and workflow engines.
+
+Investing in how engineers and AI agents collaborate — from statuslines to full agent orchestration.
+
+---
+
+## Highlights
+
+| | |
+|---|---|
+| **AI Developer Tooling** | Building open-source tools for AI-assisted development — arcforge, cc-pulseline, forgemate |
+| **Android Library Author** | Published multiple Android libraries — EasyBle, ViewDragLayout, FastDialogFragment, Mango |
+| **Half-Marathon Runner** | ~100 min finish time 🏃 |
+
+---
+
+## Open Source
+
+| Repository | What |
+|------------|------|
+| [arcforge](https://github.com/GregoryHo/arcforge) | Skill-based workflow engine for AI coding agents |
+| [cc-pulseline](https://github.com/GregoryHo/cc-pulseline) | High-performance Claude Code statusline in Rust |
+| [forgemate](https://github.com/GregoryHo/forgemate) | Personal AI assistant — inspired by openclaw |
+
+---
 
 ## Tech Stack
 
@@ -23,8 +45,6 @@ Prioritizes pragmatic decisions, measurable quality signals, and maintainable sy
   </a>
 </p>
 
-## Contact
+---
 
-- GitHub: [@GregoryHo](https://github.com/GregoryHo)
-- Email: [greghojob@gmail.com](mailto:greghojob@gmail.com)
-- Collaboration: Open an issue/discussion in any repo
+[GitHub](https://github.com/GregoryHo) · [LinkedIn](https://www.linkedin.com/in/gregory-ho-6712aa137) · [X](https://x.com/x_gregory_ho) · [Email](mailto:greghojob@gmail.com)
